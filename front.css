@@ -1,0 +1,18 @@
+.bg{
+    background-color: maroon;
+}
+.fr{
+    font-family:Arial Narrow ;
+}
+.mast{
+    font-family:Brush Script MT ;
+    color: red;
+    font-size: 40px;
+}
+.blog{
+    list-style-type: none;
+}
+.navbar{
+padding-bottom: 3px;
+}
+    
